@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run --rm -v "$PWD":/usr/src/project dtexlive $@
+docker run --rm -v "$PWD":/usr/src/project vcasalino/dtexlive $@
